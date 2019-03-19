@@ -26,6 +26,7 @@ def sum_array(array):
 #---------------------------------------------------------------------------
 def fibonacci(n):
 
+
     '''
     Return nth term in fibonacci sequence
 
